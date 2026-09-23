@@ -1,0 +1,17 @@
+# Editor local (IntelliJ / Visual Studio)
+.idea/
+idea/
+*.user
+*.suo
+.vs/
+
+# Compilados y builds
+out/
+target/
+build/
+bin/
+obj/
+
+# Dependencias frontend
+node_modules/
+dist/
