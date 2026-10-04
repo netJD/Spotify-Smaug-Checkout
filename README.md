@@ -20,3 +20,8 @@ A Java (Spring Boot) and React (TypeScript) simulation demonstrating subscriptio
 ```bash
 cd backend
 ./mvnw spring-boot:run
+
+### 2. Frontend
+```bash
+cd frontend
+npm run dev
